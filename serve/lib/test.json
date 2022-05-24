@@ -1,0 +1,5 @@
+{
+    "filename":"testFile",
+    "timeArray":[0,60,180,240,300],
+    "flagArray":[true,false,true,true]
+}

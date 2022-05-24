@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "automediacheckpoint",
+  "private_key_id": "6da27f34c5743af57079323e1893fd7d2ef0d539",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOczrLvcAXcdEM\nUZ5R205D9jFCii8QX7wvVjyPpMqa6q/StTILUwlDHNsxyQ1/5D8no+lm0JKjE5le\n352IKulpjGWW/85tv/27oC1/Mc6D6zpFsvUM/pIYm5Ueem9A5OV+bhEZ4YqlSQ4g\nF3Et7hVWtu/b9RGqmQZS11Kxjy1SSHbcJJUNu7t3sEFZmafcTtpllmA0Ua6vxMo1\nAMUJo6cmIa92uFdl8wcgkYE9Z3D4v9OArVVd7qgVW5Yo1xpk/FZq5TnZrJHAwu8Z\nHhQzdtJVXg6lgSJtAmqJQk3jL8aGEmpVVhQpybtYfKrwpWBM30h3hdvxIMTsDeRL\ndvzAEUcxAgMBAAECggEAMTrxLlyVTgHqI9Hiuwpc43/1xzREfNcXfQJHdsmJNt/4\nBXsH8ANhFgvviTO0cGbxWHaR1d6u2Qx3alRQsIPrHSxJnXRquWkrDG7p6obqBDM3\nth8yqGKcXBnduWLg3My4nSmKEm3iLf/5ylVMu/MmS4NcN0t9Zv0OsPp/0a+e0xve\n7J+nQMRL1IZL2H6/8DQbHNCaMDG8K/1ZVKCrpxgIl8ind/w9yqSvnDxCEM53WbUk\nKasbWKFwmfUmIQEy6rjzeRurrlfAFxARglSNTYxKk5z1eMFRieN7NwG4wo7ISkkm\nmNkcrjq+UiLne1i39tykOxhH7zVCKXrq3OzXAHmzQQKBgQDsZW4LIVvqIIribwaV\n019R+LXClY/T1uxHO8vnCEUL6PJxD6r1eiyd0rCKL4uw6k7NL9SU0FTBELiH9XBe\n39od5YmiEvtZSE3cQkgPoE+0hulTECum113MAJCJZHeU0FJ7lrfPHJhAuSBA6U0n\njZKrIgldWHW0Z2EBR0OA85BTfQKBgQDfkg9Cbi7+NeQJsKy/n6OJdWZuTJeWFbEt\nCjW25EhEnrp+RwQdVhQ3XDsFpf68tj0qPfznizq+AqR+3aRkLbpDwdmU3DF5wFV7\nYBLlJ5pN975MOyDDrFzrJ9Xf8doF7D3aqWS3ErTo8xRxZV4QhdNHsvrW7iggVH95\nMtvQf8OoxQKBgBSPbdbB/ACM/AddqLD3RV8Xxpc58tx14O8BIGbjrT2v8QYsWq4n\nBiJj5L7gC8JDXr8x3cdjpztzfNk2W6OkzI+1Gxdhl0LYqwzxJttVEhmdckWrLmDA\ncoP/uJJ6jnv+8m2VWj9FOWjHsSp0ICXEhnEj8LSRsQsTwrgdvp1EkdTxAoGAa55I\nYCbf0hio4407KqaytwlfPDr8QQ/CELc4cghjTTzG8uBGd8SmyJtKAgcMn1RuDvZ1\n1hNsPGjTPAp/BoYIgnM+xGxWGJBf1ZrCnbI5kcxuuw0/UVGYDM5JIpqt42n7wFUI\nGSQVF4ljTs6HwBZbRMk/+9P6Vs216uZzb2MBES0CgYEAu7JW0VMdJx464lo4ImFY\nHHITkGqbyF8V9/qox8rXAolCNhomGeOeBz+UacbW1NvRVVcnzSjgy6XPmdwz7+jQ\nurZc8dt4blsWvUo0nd/HOHvqQn8qRJqnIUu/xk8pHqd/REWUqfcpri4aJ7WtbpKk\n+cl/Cvp65AEmyHM8glPN69U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "automediacheckpoint@automediacheckpoint.iam.gserviceaccount.com",
+  "client_id": "100784703697919540825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/automediacheckpoint%40automediacheckpoint.iam.gserviceaccount.com"
+}
